@@ -8,9 +8,9 @@ public class Task22 {
         String b = "Hi";
 
         if (a.equals(b)) {
-            System.out.println("Строки идентичны");
+            System.out.println("Award");
         } else {
-            System.out.println("Строки неидентичны");
+            System.out.println("Not award");
         }
     }
 }
