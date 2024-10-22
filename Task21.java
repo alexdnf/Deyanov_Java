@@ -4,8 +4,8 @@ public class Task21 {
     public static void main(String[] args) {
 
       
-        int a = 4
-        int b = 7
+        int a = 4;
+        int b = 7;
 
         // Сравнение чисел
         if (a > b) {
