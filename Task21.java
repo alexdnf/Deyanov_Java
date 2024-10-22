@@ -19,17 +19,17 @@ public class Task21 {
         // Арифметические операции
 
         int sum = a + b;
-        System.out.println("Сумма чисел: " + sum);
+        System.out.println("Summ: " + sum);
         int difference = a - b;
-        System.out.println("Разность чисел: " + difference);
+        System.out.println("Raznost': " + difference);
         int multiplication = a * b;
-        System.out.println("Произведение чисел: " + multiplication);
+        System.out.println("Proizvedenie: " + multiplication);
 
         if (b != 0) {
             double division = (double) a / b;
-            System.out.printf("Деление чисел: %.2f%n", division);
+            System.out.printf("Delenie: %.2f%n", division);
         } else {
-            System.out.println("Делить на ноль нельзя");
+            System.out.println("No No No");
         }
 }
 }
